@@ -1,0 +1,1 @@
+This project will be about coding Rock Paper Scissors! 
